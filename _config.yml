@@ -3,9 +3,7 @@ author:
   name: Ycjk1
   email: peopeocrying@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  Mục đích mình sử dụng trang web này là để chia sẽ những thứ mình học được.
-  Chúc các bạn thành công nhé ! 
-             -Ycjk1-
+  -Ycjk1-
 show_excerpts: false # set to true to show excerpts on the homepage
 
 # Minima date format
@@ -16,16 +14,16 @@ minima:
   # generate social links in footer
   social_links:
     # twitter: jekyllrb
-    # github:  Ycjk1
+    github:  Ycjk1
     # devto: jekyll
     # dribbble: jekyll
-    # facebook: jekyll
+    facebook: csYcjk1
     # flickr:   jekyll
-    # instagram: jekyll
+    instagram: ycjk1
     # linkedin: jekyll
     # pinterest: jekyll
     # youtube: jekyll
-    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
+    youtube_channel: UCVUvN1aVKjEHCfWTDopfDAQ
     # youtube_channel_name: CloudCannon
     # telegram: jekyll
     # googleplus: +jekyll
